@@ -1,4 +1,4 @@
-# Welcome to Lite Inventory Management
+# Welcome to Supply Chain Inventory Optimizer (SCIO)
 Welcome to the sample use case of the Lite Inventory Management application. This open source application developed using the Cloud Application Programming Model (CAP) will help as reference for customers developing a lightweight inventory management system that can significantly streamline the processes of small to medium-sized enterprises by managing their local inventory databases efficiently. This system facilitates essential functions such as issuing goods, receiving goods, and monitoring stock levels. By automating these tasks, businesses can reduce human errors, optimize inventory turnover, and improve overall operational efficiency. Additionally, such a system can provide real-time inventory updates, enabling better decision-making regarding stock reordering and resource allocation. This leads to improved customer satisfaction through faster and more reliable service and can potentially reduce carrying costs by minimizing excess stock.
 
 ## Requirements
@@ -36,3 +36,4 @@ Step3: Run the following command to build and deploy the file to the SAP BTP, Cl
 
 ```
 npm run mta:package:deploy
+

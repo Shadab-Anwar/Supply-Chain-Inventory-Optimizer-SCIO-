@@ -20,7 +20,7 @@ Some of the key capabilities of Lite Inventory application includes
 6. Load Inventory Data
 
 
-Sample View of ITK Lite Inventory Application
+Sample View of SCIO Inventory Application
 
 ![Reference Image](/liteinventory.jpg)
 
@@ -36,4 +36,5 @@ Step3: Run the following command to build and deploy the file to the SAP BTP, Cl
 
 ```
 npm run mta:package:deploy
+
 
